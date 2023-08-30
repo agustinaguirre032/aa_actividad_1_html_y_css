@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color:white;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.custom-box {
+    border: 2px dashed red;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: rgb(255, 238, 0);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  }
+
+.image {
+    float: right;
+    margin: 0 0 10px 10px;
+    width: 400px;
+}
+
+a {
+    color:red;
+    text-decoration: none;
+}
